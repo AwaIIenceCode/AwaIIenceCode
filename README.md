@@ -9,13 +9,13 @@ I’m continuously learning, coding, and sharing my progress.
 ## 🧰 Language & Tools
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" alt="Unity" width="40"/>
-<img src="PUT_YOUR_LINK_HERE" alt="MS SQL" width="40"/>
-<img src="PUT_YOUR_LINK_HERE" alt="Git" width="40"/>
-<img src="PUT_YOUR_LINK_HERE" alt="HTML" width="40"/>
-<img src="PUT_YOUR_LINK_HERE" alt="CSS" width="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" alt="Unity" width="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MS SQL" width="50"/>
+<img src="[PUT_YOUR_LINK_HERE](https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg)" alt="Git" width="50"/>
+<img src="[PUT_YOUR_LINK_HERE](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg)" alt="HTML" width="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="50"/>
 </div>
 
 
