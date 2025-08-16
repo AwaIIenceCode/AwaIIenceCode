@@ -7,14 +7,16 @@ I’m continuously learning, coding, and sharing my progress.
 *Simple console racing game in C++*
 
 ## 🧰 Language & Tools
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/csharp.svg" alt="C#" width="40"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/unity.svg" alt="Unity" width="40"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftsqlserver.svg" alt="MS SQL" width="40"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/git.svg" alt="Git" width="40"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg" alt="Python" width="40"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cplusplus.svg" alt="C++" width="40"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/html5.svg" alt="HTML" width="40"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/css3.svg" alt="CSS" width="40"/>
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="40"/>
+<img src="PUT_YOUR_LINK_HERE" alt="Unity" width="40"/>
+<img src="PUT_YOUR_LINK_HERE" alt="MS SQL" width="40"/>
+<img src="PUT_YOUR_LINK_HERE" alt="Git" width="40"/>
+<img src="PUT_YOUR_LINK_HERE" alt="Python" width="40"/>
+<img src="PUT_YOUR_LINK_HERE" alt="C++" width="40"/>
+<img src="PUT_YOUR_LINK_HERE" alt="HTML" width="40"/>
+<img src="PUT_YOUR_LINK_HERE" alt="CSS" width="40"/>
+</div>
 
 
 ## 📂 Featured Projects
