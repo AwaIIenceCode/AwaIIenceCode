@@ -7,7 +7,7 @@ I’m continuously learning, coding, and sharing my progress.
 *Simple console racing game in C++*
 
 ## 🧰 Language & Tools
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![C#](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/csharp.svg)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white)
 ![MS SQL](https://img.shields.io/badge/-MS_SQL-007ACC?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
