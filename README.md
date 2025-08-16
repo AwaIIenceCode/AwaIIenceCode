@@ -13,8 +13,8 @@ I’m continuously learning, coding, and sharing my progress.
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" alt="Unity" width="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MS SQL" width="50"/>
-<img src="[PUT_YOUR_LINK_HERE](https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg)" alt="Git" width="50"/>
-<img src="[PUT_YOUR_LINK_HERE](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg)" alt="HTML" width="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="50"/>
 </div>
 
