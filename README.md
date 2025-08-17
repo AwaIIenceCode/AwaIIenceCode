@@ -27,4 +27,5 @@ I’m continuously learning, coding, and sharing my progress.
 ## 🔥 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AwaIIenceCode&theme=radical)
 
+
 📫 Contact: awallencecode@gmail.com | LinkedIn: [Oleh Skrypnyk](https://www.linkedin.com/in/oleh-skrypnyk-zakrevskiy-154739333/)
