@@ -2,9 +2,8 @@
 C# & Unity developer building projects and exploring software development.  
 I’m continuously learning, coding, and sharing my progress.
 
-## 🕹 Mini Project
-![NFS Console Game](https://github.com/AwaIIenceCode/NFS_Console/raw/main/screenshot.png)  
-*Simple console racing game in C++*
+## 🕹 GitHub Contribution Snake
+![Snake animation](https://github.com/AwaIIenceCode/AwaIIenceCode/blob/output/github-contribution-grid-snake.svg)
 
 ## 🧰 Language & Tools
 <div>
