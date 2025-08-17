@@ -2,10 +2,10 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *" 
-  workflow_dispatch:     
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
   push:
-    branches: [ main ]     
+    branches: [ main ]
 
 jobs:
   build:
@@ -15,10 +15,8 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: AwaIIenceCode
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg
-          palette: '{"background":"#0d1117","empty":"#1f2126","low":"#0f6","medium":"#0c0","high":"#0a0"}'
+          outputs: dist/github-contribution-grid-snake.svg
+          palette: '{"background":"#0d1117","empty":"#1f2126","low":"#00ff00","medium":"#00cc00","high":"#009900"}'
 
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4
