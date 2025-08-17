@@ -16,7 +16,7 @@ jobs:
         with:
           github_user_name: AwaIIenceCode
           outputs: dist/github-contribution-grid-snake.svg
-          palette: '{"background":"#0d1117","empty":"#1f2126","low":"#00ff00","medium":"#00cc00","high":"#009900"}'
+          palette: '{"background":"#0d1117","empty":"#0a0a0a","low":"#00ff00","medium":"#00cc00","high":"#009900"}'
 
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4
