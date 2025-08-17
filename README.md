@@ -17,7 +17,6 @@ I’m continuously learning, coding, and sharing my progress.
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="50"/>
 </div>
 
-
 ## 📂 Featured Projects
 - [NFS_Console](https://github.com/AwaIIenceCode/NFS_Console) - Console C++ racing game
 
