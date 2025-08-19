@@ -26,13 +26,19 @@ I’m continuously learning, coding, and sharing my progress.
 ## 📂 Featured Projects
 - [NFS_Console](https://github.com/AwaIIenceCode/NFS_Console) - Console C++ racing game
 
-
 ## 📊 GitHub Stats
-![Oleg's GitHub stats](https://github-readme-stats.vercel.app/api?username=AwaIIenceCode&show_icons=true&hide_border=true&theme=radical)
+<div align="center">
+  
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AwaIIenceCode&show_icons=true&theme=tokyonight)
 
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AwaIIenceCode&layout=compact&hide_border=true&theme=radical)
+## 📚 Most Used Languages
+<div align="center">
 
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AwaIIenceCode&layout=compact&theme=tokyonight)
+
+</div>
 
 ## 🔥 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AwaIIenceCode&theme=radical)
