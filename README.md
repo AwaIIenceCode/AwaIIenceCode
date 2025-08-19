@@ -2,7 +2,6 @@
 C# & Unity developer building projects and exploring software development.  
 I’m continuously learning, coding, and sharing my progress.
 
-## 🕹 GitHub Contribution Snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AwaIIenceCode/AwaIIenceCode/blob/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/AwaIIenceCode/AwaIIenceCode/blob/output/github-contribution-grid-snake.svg">
@@ -26,6 +25,7 @@ I’m continuously learning, coding, and sharing my progress.
 
 ## 📊 GitHub Stats
 ![Oleg's GitHub stats](https://github-readme-stats.vercel.app/api?username=AwaIIenceCode&show_icons=true&hide_border=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AwaIIenceCode&layout=compact&hide_border=true&theme=radical)
 
 ## 🔥 GitHub Streak
