@@ -2,11 +2,13 @@
 C# & Unity developer building projects and exploring software development.  
 I’m continuously learning, coding, and sharing my progress.
 
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AwaIIenceCode/AwaIIenceCode/blob/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/AwaIIenceCode/AwaIIenceCode/blob/output/github-contribution-grid-snake.svg">
   <img alt="github contribution snake" src="https://github.com/AwaIIenceCode/AwaIIenceCode/blob/output/github-contribution-grid-snake.svg">
 </picture>
+
 
 ## 🧰 Language & Tools
 <div>
@@ -20,13 +22,17 @@ I’m continuously learning, coding, and sharing my progress.
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="50"/>
 </div>
 
+
 ## 📂 Featured Projects
 - [NFS_Console](https://github.com/AwaIIenceCode/NFS_Console) - Console C++ racing game
+
 
 ## 📊 GitHub Stats
 ![Oleg's GitHub stats](https://github-readme-stats.vercel.app/api?username=AwaIIenceCode&show_icons=true&hide_border=true&theme=radical)
 
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AwaIIenceCode&layout=compact&hide_border=true&theme=radical)
+
 
 ## 🔥 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AwaIIenceCode&theme=radical)
