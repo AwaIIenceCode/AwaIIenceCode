@@ -26,11 +26,6 @@ I’m continuously learning, coding, and sharing my progress.
 
 ---
 
-## 📂 Featured Projects  
-[**NFS_Console**](https://github.com/AwaIIenceCode/NFS_Console) – Console C++ racing game  
-
----
-
 ## 📊 GitHub Stats  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AwaIIenceCode&show_icons=true&theme=tokyonight)
 
@@ -43,6 +38,11 @@ I’m continuously learning, coding, and sharing my progress.
 
 ## 🔥 GitHub Streak  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AwaIIenceCode&theme=radical)
+
+---
+
+## 📂 Featured Projects  
+[**NFS_Console**](https://github.com/AwaIIenceCode/NFS_Console) – Console C++ racing game  
 
 ---
 
