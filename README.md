@@ -3,7 +3,8 @@ C# & Unity developer building projects and exploring software development.
 I’m continuously learning, coding, and sharing my progress.
 
 ## 🕹 GitHub Contribution Snake
-![snake gif](https://github.com/AwaIIenceCode/AwaIIenceCode/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/AwaIIenceCode/AwaIIenceCode/blob/output/github-contribution-grid-snake-dark.svg)
+
 
 ## 🧰 Language & Tools
 <div>
