@@ -26,7 +26,7 @@ I’m continuously learning, coding, and sharing my progress.
 
 ## 📊 GitHub Stats
 ![Oleg's GitHub stats](https://github-readme-stats.vercel.app/api?username=AwaIIenceCode&show_icons=true&hide_border=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AwaIIenceCode&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AwaIIenceCode&layout=compact&hide_border=true&theme=radical)
 
 ## 🔥 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AwaIIenceCode&theme=radical)
