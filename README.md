@@ -3,8 +3,11 @@ C# & Unity developer building projects and exploring software development.
 I’m continuously learning, coding, and sharing my progress.
 
 ## 🕹 GitHub Contribution Snake
-![snake gif](https://github.com/AwaIIenceCode/AwaIIenceCode/blob/output/github-contribution-grid-snake-dark.svg)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AwaIIenceCode/AwaIIenceCode/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/AwaIIenceCode/AwaIIenceCode/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake" src="https://github.com/AwaIIenceCode/AwaIIenceCode/blob/output/github-contribution-grid-snake.svg">
+</picture>
 
 ## 🧰 Language & Tools
 <div>
