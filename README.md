@@ -27,10 +27,10 @@ Focused on architecture, smart contracts and real systems.
 ---
 
 ## 🛠 Current Focus
-Backend architecture (Node.js, REST, auth)
-Smart contracts development (Solidity)
-Web3 interaction via ethers.js
-Clean code & separation of concerns
+-- Backend architecture (Node.js, REST, auth)
+-- Smart contracts development (Solidity)
+-- Web3 interaction via ethers.js
+-- Clean code & separation of concerns
 
 ---
 
