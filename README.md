@@ -1,7 +1,9 @@
 <div align="center">
 
 # Hi, I'm Oleg 👋  
-Backend-focused developer exploring Web3 infrastructure. Working with JS/TS, Node.js and Solidity. Building systems, not hype. Developer in Progress.
+Backend / Web3 Developer  
+Building with JavaScript, TypeScript, Node.js and Solidity.  
+Focused on architecture, smart contracts and real systems.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AwaIIenceCode/AwaIIenceCode/blob/output/github-contribution-grid-snake-dark.svg">
@@ -13,15 +15,22 @@ Backend-focused developer exploring Web3 infrastructure. Working with JS/TS, Nod
 
 ## 🧰 Language & Tools
 <div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" alt="Unity" width="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MS SQL" width="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" width="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="50"/>
 </div>
+
+---
+
+## 🛠 Current Focus
+- Backend architecture (Node.js, REST, auth)
+- Smart contracts development (Solidity)
+- Web3 interaction via ethers.js
+- Clean code & separation of concerns
 
 ---
 
@@ -41,7 +50,7 @@ Backend-focused developer exploring Web3 infrastructure. Working with JS/TS, Nod
 ---
 
 ## 📂 Featured Projects  
-[**NFS_Console**](https://github.com/AwaIIenceCode/NFS_Console) – Console C++ racing game  
+
 
 ---
 
