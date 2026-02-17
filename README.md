@@ -1,8 +1,7 @@
 <div align="center">
 
 # Hi, I'm Oleg 👋  
-C# & Unity developer building projects and exploring software development.  
-I’m continuously learning, coding, and sharing my progress.  
+Backend-focused developer exploring Web3 infrastructure. Working with JS/TS, Node.js and Solidity. Building systems, not hype. Developer in Progress.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AwaIIenceCode/AwaIIenceCode/blob/output/github-contribution-grid-snake-dark.svg">
